@@ -1,5 +1,5 @@
-- 👋 Hi, I’m David Killen - @dkillen
-- 👀 I’m interested in blockchain development (DeFi and NFTs in particular) and full stack web development.
-- 🌱 I’m currently learning more about blockchain development on Ethereum and polishing up my full stack skills in Angular, React, Web3, and MongoDB.
-- 💞️ I’m looking to collaborate on anything DeFi and NFT related. I'm developing a couple of my own ideas applying DeFi and NFTs to gaming and property investment.
-- 📫 How to reach me: Send me a message https://twitter.com/DavidAKillen
+- Hi, I’m David Killen - @dkillen
+- I’m interested in blockchain development (DeFi and NFTs in particular) and full stack web development.
+- I’m currently learning more about blockchain development on Ethereum and polishing up my full stack skills in Angular, React, Web3, and MongoDB.
+- I’m looking to collaborate on anything DeFi and NFT related. I'm developing a couple of my own ideas applying DeFi and NFTs to gaming and property investment.
+- How to reach me: Send me a message https://twitter.com/DavidAKillen
