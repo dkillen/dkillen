@@ -1,5 +1,6 @@
 - Hi, I’m David Killen - @dkillen
-- I’m interested in blockchain development (DeFi and NFTs in particular) and full stack web development.
-- I’m currently learning more about blockchain development on Ethereum and polishing up my full stack skills in Angular, React, Web3, and MongoDB.
-- I’m looking to collaborate on anything DeFi and NFT related. I'm developing a couple of my own ideas applying DeFi and NFTs to gaming and investment.
-- How to reach me: Send me a message https://twitter.com/DavidAKillen
+- I'm a software engineer and practicing commercial and intellectual property lawyer. I've worked in software development for companies from the very large to the very small, and places in between - most of that time in banking and finance related development.
+- My interests in software development have changed over the years. Right now, my primary interest is in blockchain development (DeFi and NFTs in particular). I think it is the way of the future, and only in its infancy. It is an exciting time! I also enjoy putting a front-end to the smart contracts I create. After all, what good is it to create a smart contract that nobody can conveniently use?
+- I'm a lifelong learner and curious about a whole range of subjects. I’m always actively learning more about those things that interest me. Right now, that means blockchain development on Ethereum and polishing up my full stack skills in Angular, React, Web3, and MongoDB.
+- I’m am open to offers to work on interesting DeFi and NFT projects and will consider collaborating on anything DeFi and NFT related. I'm developing a couple of my own DeFi and NFT ideas
+- How to reach me: DM to https://twitter.com/DavidAKillen
