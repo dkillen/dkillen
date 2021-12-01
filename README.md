@@ -1,6 +1,6 @@
 - Hi, I’m David Killen - @dkillen
 - I'm a blockchain engineer and recovering commercial and intellectual property lawyer.
-- Right now, my primary interest is in blockchain. It's the way of the future, and only in its infancy.
+- My primary interest is in blockchain, specifically Ethereum.
 - I'm a lifelong learner and curious about a whole range of subjects. I’m always actively learning more about those things that interest me. Right now, that means blockchain development on Ethereum.
 - I’m always happy to hear about interesting DeFi and NFT projects so, please say hi.
 - How to reach me: DM to https://twitter.com/DavidAKillen
